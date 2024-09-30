@@ -1,0 +1,25 @@
+.li-item {
+  list-style-type: none;
+  height: 80px;
+  width: 80px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+@media (min-width: 768px) {
+  .li-item {
+    height: 120px;
+    width: 120px;
+  }
+}
+
+.img-button {
+  border: none;
+  background: transparent;
+  outline: none;
+  cursor: pointer;
+}
+
+.thumbnail-img {
+  width: 100%;
+}
