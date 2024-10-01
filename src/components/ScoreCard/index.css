@@ -1,0 +1,23 @@
+.score-card-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/match-game-score-card-sm-bg.png');
+}
+
+/* @media (min-width: 768px) {
+  .score-card-container {
+    background-image: url('https://assets.ccbp.in/frontend/react-js/match-game-score-card-lg-bg.png');
+  }
+} */
+
+.tropy-img {
+  width: 234px;
+}
+
+@media (min-width: 768px) {
+  .tropy-img {
+    width: 345px;
+  }
+}

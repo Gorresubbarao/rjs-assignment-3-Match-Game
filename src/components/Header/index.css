@@ -37,6 +37,7 @@
   color: #ffffff;
   font-family: 'Roboto';
   font-size: 23px;
+  list-style-type: none;
 }
 
 @media (min-width: 768px) {
